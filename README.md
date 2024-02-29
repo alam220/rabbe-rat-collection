@@ -5,7 +5,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/YuanKong666/Ultimate-RAT-Collection">
 </p>
 
-<h1 align="center">Password: rabbeinfected</h1>
+<h1 align="center">Password: rabbe-infected</h1>
 
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
